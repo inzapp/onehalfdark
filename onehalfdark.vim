@@ -153,7 +153,7 @@ call s:h("Structure", s:yellow, "", "")
 call s:h("Typedef", s:yellow, "", "")
 
 call s:h("Special", s:blue, "", "")
-call s:h("SpecialChar", s:fg, "", "")
+call s:h("SpecialChar", s:blue, "", "")
 call s:h("Tag", s:fg, "", "")
 call s:h("Delimiter", s:fg, "", "")
 call s:h("SpecialComment", s:fg, "", "")
